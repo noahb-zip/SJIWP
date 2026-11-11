@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Redaction+50:ital,wght@0,400;0,700;1,400&display=swap');
+body{
+    background-color: #5bc5c5;
+    font-family: "Redaction 50", serif;
+}
+h, h1, h2{
+    color: #696969;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 4px;
+    font-weight: bolder;
+}
+link{
+    color: goldenrod;
+}
+a{
+    columns: #ffffff;
+    text-decoration: none;
+}
+p{
+    columns: #ffffff;
+    line-height: 1.6;
+}
